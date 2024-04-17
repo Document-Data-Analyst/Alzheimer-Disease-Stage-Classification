@@ -24,6 +24,8 @@ The MRI images utilized in this study were gathered from the Alzheimer's
 Disease Neuroimaging Initiative (ADNI) dataset, including both ADNI and
 ADNI-Axial datasets. The dataset includes structural MRI scans of
 Alzheimer\'s disease patients at different stages.
+![image](https://github.com/Document-Data-Analyst/Alzheimer-Disease-Stage-Classification/assets/22766772/75c34b79-181c-4bd3-bd6d-9fe0452e1ac0)
+
 
 ## Methodology
 
