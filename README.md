@@ -6,7 +6,6 @@ This repository contains the implementation of a classification
 framework for Alzheimer\'s disease stages using Vision Transformers
 (ViTs) applied to brain MRI scans. The project aims to facilitate early
 diagnosis and descriptive caption of brain scan.
-![image](https://github.com/Document-Data-Analyst/Alzheimer-Disease-Stage-Classification/assets/22766772/95fa823e-239c-4b19-9721-ed4da7068402)
 
 ## Features
 
@@ -38,6 +37,7 @@ Alzheimer\'s disease patients at different stages.
     using PyTorch and Google Colab.
 -   Evaluation: Performance evaluation metrics include accuracy,
     precision score, F1 score, AUC curve, and Confusion Matrix.
+![image](https://github.com/Document-Data-Analyst/Alzheimer-Disease-Stage-Classification/assets/22766772/95fa823e-239c-4b19-9721-ed4da7068402)
 
 ## Results
 
@@ -45,6 +45,7 @@ Alzheimer\'s disease patients at different stages.
     dataset.
 -   Comparative analysis with existing literature shows competitive
     performance of the proposed method.
+![image](https://github.com/Document-Data-Analyst/Alzheimer-Disease-Stage-Classification/assets/22766772/6c76cd66-1948-45be-9f46-8d23179e18eb)
 
 ## Conclusion
 
